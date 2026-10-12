@@ -21,13 +21,5 @@ Analysis of a mobile phone dataset using SQL and Power BI.
 * Top 10 most expensive phones
 * Operating system distribution
 * RAM and battery capacity analysis
-
-## Power BI
-
-A dashboard was created to visualize mobile phone data and present key information.
-
-## Project Files
-
-* `sql/`: SQL queries used in the analysis.
 * `powerbi/`: Power BI dashboard file.
 * `images/`: Dashboard screenshot.
